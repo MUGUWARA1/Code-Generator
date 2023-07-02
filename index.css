@@ -208,7 +208,7 @@ input
         height: 50px;
         border-radius: 8px;
         border-color: red;
-        top: 400px;
+        top: 450px;
         font-size: 20px;
         font-size: bold;
         cursor: pointer;
@@ -225,7 +225,7 @@ input
     {
         position: absolute;
         opacity:0.2;
-        top: 480px;
+        top: 490px;
         width: 200px;
         color: aliceblue;
     }
@@ -250,6 +250,14 @@ input
         position: relative;
         top: 20px;
     }
+    #symbols
+    {
+        position: relative;
+        top: 20px;
+    }
+
+
+
 
 
 

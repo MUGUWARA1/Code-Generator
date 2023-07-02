@@ -7,7 +7,7 @@ const numbersend =61;
 
 let pass = document.getElementById("password")
 let numbers = document.getElementById("numbers")
-let symbols = document.getElementById("symbols")
+//let symbols = document.getElementById("symbols")
 //console.log(characters[62]) 
 //length of password 15
 //randomly chosen 
